@@ -1,3 +1,4 @@
+let [width, height] = [0, 0];
 let area = width * height;
 
 const companyName = '애플';
